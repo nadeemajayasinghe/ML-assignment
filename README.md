@@ -30,6 +30,8 @@ This project focuses on predicting wine quality using multiple Machine Learning 
 
 \- Source: UCI Machine Learning Repository  
 
+\- Link: https://archive.ics.uci.edu/ml/datasets/wine+quality 
+
 \- Dataset: Wine Quality Dataset  
 
 \- Files used:
