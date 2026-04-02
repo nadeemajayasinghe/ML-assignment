@@ -1,5 +1,7 @@
 \# 🍷 Wine Quality Prediction using Machine Learning
 
+<img width="1253" height="699" alt="image" src="https://github.com/user-attachments/assets/06d2b786-6eef-4a82-9d3b-6adadffe3817" />
+
 
 
 \## 📌 Project Overview
@@ -11,6 +13,7 @@ This project focuses on predicting wine quality using multiple Machine Learning 
 \---
 
 
+\- Youtube Link: https://youtu.be/6qTGsqbm5yk?si=jMfcQjqIvJ781kWl
 
 \## 🎯 Objective
 
